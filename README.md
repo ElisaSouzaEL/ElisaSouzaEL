@@ -2,7 +2,7 @@
 
 Meu nome é Elisa Souza
 
- - Eu estudando na Alura 💻
+ - Eu estudando na [Alura}(https://www.alura.com.br) 💻
  - Estou me desenvolvendo na linguagem JanvaScript 🎧
  - Utilizo esse espaço para minha organizaçâo e compartilhamento dos meus projetos desenvolvidos 🤖
 
