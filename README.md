@@ -1,12 +1,11 @@
-## Hi there 👋
+💙 ## Bem vindas ao meu perfil 💙
 
-<!--
-**ElisaSouzaEL/ElisaSouzaEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Elisa Souza
 
-My name is Elisa Souza
+ - Eu estudando na Alura 💻
+ - Estou me desenvolvendo na linguagem JanvaScript 🎧
+ - Utilizo esse espaço para minha organizaçâo e compartilhamento dos meus projetos desenvolvidos 🤖
 
- I'm studying in Alura
- I'm developing in the JavaScript language
- I use this space for my organization and sharing of my developed projects
+### Você pode entrar em contato comigo 📧
 
--->
+00001114630792SP@al.educacao.sp.gov.br
